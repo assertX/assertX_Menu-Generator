@@ -1,0 +1,10 @@
+Entree		28	Pan-Seared Halibut with Sauteed Spinach
+Appetizer	9	Thai Green Curry Chicken Wings
+Appetizer	10	Char-Grilled Shrimp Skewers
+Entree		10	Angus Beef Burger with Aged Cheddar
+Dessert		5	Gluten-Free Carrot Cake
+Entree		19	Linguine with White Clam Sauce
+Entree		23	12-oz Ribeye Steak with Cumin Pepper
+Appetizer	4	Chilled Cucumber Soup
+Dessert		5	Jam and Peanut Butter Cookie
+Appetizer	10	Grilled Artichokes
